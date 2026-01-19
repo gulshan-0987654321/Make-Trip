@@ -6,6 +6,8 @@ MakeTrip is a modern, responsive travel website designed to showcase beautiful d
 https://gulshan-0987654321.github.io/Make-Trip/
 
 ---
+##Snapshots
+<img src="Screenshot (16).png">
 
 ## ✨ Features
 
